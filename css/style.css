@@ -169,3 +169,9 @@ img {
         gap: 60px;
     }
 }
+
+@media screen and (max-width: 1140px) {
+    .container{
+        width: 100%;
+    }
+}
